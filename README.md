@@ -2,6 +2,7 @@
 
 <p align="center">
   🎓 Systems Analysis and Development Student | 💡 I'm driven by curiosity and the desire to build solutions that make a difference.
+</p><br>
 
 ## ✨ Abaout Me
 
