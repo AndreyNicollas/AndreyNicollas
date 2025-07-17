@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻 Hey, my name is Andrey Nicollas</h1>
 
 <p align="center">
-  🎓 Systems Analysis and Development Student | 💡 I'm driven by curiosity and the desire to build solutions that make a difference.
+  🎓 Systems Analysis and Development Student | 💡 I'm a technology enthusiast, focused on learning and developing through programming.
 </p><br>
 
 ## ✨ Abaout Me
