@@ -1,19 +1,19 @@
-<h1 align="center">👋🏻 Hey, my name is Andrey Nicollas</h1>
+<h1 align="center">👋🏻 Olá, sou Andrey Nicollas</h1>
 
 <p align="center">
-  🎓 Systems Analysis and Development Student | 💡 Passionate about technology and programming.
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💡 Apaixonado por tecnologia e programação.
 </p><br>
 
-## ✨ Abaout Me
+## ✨ Sobre Mim
 
-- I'm currently studying **Java**, **Spring Boot**, **MongoDB**, **PostgreSQL**, **Postman**, and **GitHub**. I am constantly evolving through courses, my own projects and programming challenges.
+- Atualmente, estou estudando **Java**, **Spring Boot**, **MongoDB**, **PostgreSQL**, **Postman** e **GitHub**. Estou em constante evolução por meio de cursos, meus próprios projetos e desafios de programação.
 
-- I believe in the importance of teamwork, clear communication, and the desire to learn every day.
+- Acredito na importância do trabalho em equipe, da comunicação clara e da vontade de aprender todos os dias.
 
-- I'm looking for my first programming internship opportunity, where I can apply my knowledge in practice, contribute to real projects, and continue learning from experienced professionals.
+- Estou em busca da minha primeira oportunidade de estágio em programação, onde possa aplicar meus conhecimentos na prática, contribuir com projetos reais e continuar aprendendo com profissionais experientes.
 
-## 💻 Tools and Technologies:
-- **Languages and IDE**:
+## 💻 Ferramentas e Tecnologias:
+- **Linguagens e IDE**:
 
   [![My Skills](https://skillicons.dev/icons?i=idea,java)](https://skillicons.dev)
 
