@@ -25,6 +25,11 @@
 
 [![Udemy](https://img.shields.io/badge/Udemy-Certificado-purple?logo=Udemy&logoColor=white)](https://github.com/user-attachments/files/21316372/UC-583f841b-855c-4916-814a-af8ff3890b3e.pdf)
 
+## Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-nicollas-166383324/)
+
+
 
 
 
