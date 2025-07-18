@@ -8,8 +8,6 @@
 
 - Atualmente, estou estudando **Java**, **Spring Boot**, **MongoDB**, **PostgreSQL**, **Postman** e **GitHub**. Estou em constante evolução por meio de cursos, meus próprios projetos e desafios de programação.
 
-- Acredito na importância do trabalho em equipe, da comunicação clara e da vontade de aprender todos os dias.
-
 - Estou em busca da minha primeira oportunidade de estágio em programação, onde possa aplicar meus conhecimentos na prática, contribuir com projetos reais e continuar aprendendo com profissionais experientes.
 
 ## 💻 Ferramentas e Tecnologias
