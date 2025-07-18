@@ -21,11 +21,15 @@
 ## 🏆 Certificações 
 📍 Java Completo Programação Orientada a Objetos + Projetos
 
-[![Udemy](https://img.shields.io/badge/Udemy-Certificado-purple?logo=Udemy&logoColor=white)](https://github.com/user-attachments/files/21316372/UC-583f841b-855c-4916-814a-af8ff3890b3e.pdf)
+[![Udemy - Java Completo: POO + Projetos](https://img.shields.io/badge/Udemy-Java%20Completo%3A%20POO%20%2B%20Projetos-7000B0?style=flat&logo=Udemy&logoColor=white)](https://github.com/user-attachments/files/21316372/UC-583f841b-855c-4916-814a-af8ff3890b3e.pdf)
+<br>📍 Algoritmos e Lógica de Programação
+
+[![Udemy - Algoritmo e Lógica de Programação](https://img.shields.io/badge/Udemy-Algoritmo%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-7000B0?style=flat&logo=Udemy&logoColor=white)](https://github.com/user-attachments/files/21317396/UC-a2492b55-2a6a-4408-bcfb-4772a873b445.pdf)
 
 ## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-nicollas-166383324/)
+
 
 
 
